@@ -22,3 +22,10 @@ vscode:
     - haskell.haskell
     - s0kil.vscode-hsx
     - arrterian.nix-env-selector
+
+github:
+  prebuilds:
+    # enable for the default branch (defaults to true)
+    master: true
+    # enable for all branches in this repo (defaults to false)
+    branches: true
